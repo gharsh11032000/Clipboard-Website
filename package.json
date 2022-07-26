@@ -1,13 +1,13 @@
 {
-  "name": "simple-tailwind-starter",
+  "name": "Clipboard",
   "version": "1.0.0",
-  "description": "Simple file structure for Tailwind projects",
+  "description": "A website for a clipboard application",
   "main": "index.js",
   "scripts": {
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
     "build": "tailwindcss -i ./input.css -o ./css/style.css"
   },
-  "author": "Brad Traversy",
+  "author": "Harsh Gupta",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^3.0.24"
