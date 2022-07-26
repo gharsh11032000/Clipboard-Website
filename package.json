@@ -1,7 +1,7 @@
 {
-  "name": "Clipboard",
+  "name": "clipboard",
   "version": "1.0.0",
-  "description": "A website for a clipboard application",
+  "description": "a website for a clipboard application",
   "main": "index.js",
   "scripts": {
     "watch": "tailwindcss -i ./input.css -o ./css/style.css --watch",
